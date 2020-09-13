@@ -7,7 +7,8 @@ Web interface for Condo Management
 1. Clone reposotory
 2. `npm install`
 3. `npm run dev`
-4. Visit http://localhost:3001 to see the project.
+4. Visit http://localhost:3001 to see the project. Note that many interactions will require
+[condo-api](https://github.com/condomanagement/condo-api) to be running at http://localhost:3000.
 
 ## Lint
 
